@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: aliceblue;
+}
+.first-div{
+    margin-top: 50px;
+}
+
+img {
+    width: 500px;
+    height: 100%;
+    padding: 10px;
+}
+
+a{
+    width: 500px;
+    height: 100%;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
